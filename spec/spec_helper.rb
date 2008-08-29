@@ -12,8 +12,8 @@ Spec::Runner.configure do |config|
 
   # config.global_fixtures = :table_a, :table_b
   # config.fixture_path = RAILS_ROOT + '/spec/fixtures/'
-  
-  config.mock_with :mocha
+
+  # config.mock_with :mocha
 end
 
 module HTML
